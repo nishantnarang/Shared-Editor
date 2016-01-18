@@ -1,0 +1,11 @@
+How to run server and then launch editor on browser??
+
+1. To run server.
+	a. It requires installation of redis server on system. so install redis server on your system. Installation guide is 		   provided on internet.
+	b. after installation of redis server start it on default proxy.
+	c. after starting redis server come inside SYNCeditor folder of project in command prompt and then type node server.js.
+
+2. To run sync-editor on browser.
+	a. after running server as mentioned in  step 1. type localhost:3000 on browser address bar.
+
+3. you can open private editor by clicking on new editor button and share url with your friends to enjoy real-time editing.	  

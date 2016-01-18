@@ -1,0 +1,46 @@
+
+* { 
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+}
+ 
+body {
+  	font: 13px Helvetica, Arial;
+  	background-color: rgba(235,235,235,1);
+}
+#bg {
+		height: 80vh;
+		width: 70vw;
+		position: absolute;	
+		left: 0;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		margin: auto;
+		background-color: rgba(255,255,255,1);
+}
+
+
+#editor { 
+		position: absolute;		
+		height: 70vh;
+     	width:  60vw;
+ 		left: 0;
+ 		right: 0;
+ 		bottom: 0;
+ 		top: 0;
+        margin: auto;     		
+}
+	
+
+#btn {
+	
+   height: 5vh;
+   width:  10vw;
+   position: absolute;
+   left:  88vw;
+   top:   10vh;
+   background-color: black;
+   background: transparent;
+}

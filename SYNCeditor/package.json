@@ -1,0 +1,19 @@
+{
+  "name": "sync-editor",
+  "version": "1.0.0",
+  "description": "private and public callobarative editor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Narang",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "redis": "^2.2.5",
+    "share": "^0.6.3",
+    "shortid": "^2.2.4",
+    "socket.io": "^1.3.7"
+  }
+}
